@@ -1,7 +1,9 @@
 # 10 Dog Classification using Resnet 50
 
 Working API endpoint - https://dog-breed-classification-new.herokuapp.com/predict
+<br>
 Model Training and evaluation - Resnet_50_10_classes.ipynb
+<br>
 Data Directory Preparation - Dog_breed_data_preparation.ipynb
 
 
